@@ -6,3 +6,5 @@
     + https://www.w3schools.com/
     + https://developer.mozilla.org/ko/docs/Web/HTML
     + https://www.advancedwebranking.com/seo/html-study/
+    + https://emmet.io/
+    + https://www.photopea.com/ <!--포토샵 무료 대체
